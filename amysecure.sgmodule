@@ -1,0 +1,20 @@
+#!name= amy
+#!desc= amy for Mac
+#!system= mac
+
+[General]
+
+[Rule]
+
+[Host]
+
+dev-api.phperhub.com = 127.0.0.1
+
+[URL Rewrite]
+^(http|https):\/\/(www.)?(g|google)\.cn https://www.google.com 302
+
+
+[MITM]
+skip-server-cert-verify = true
+hostname = %APPEND% *.abema.tv, *.chelaile.net.cn
+
