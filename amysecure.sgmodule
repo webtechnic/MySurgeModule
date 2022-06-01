@@ -5,13 +5,12 @@
 [General]
 
 [Rule]
+DOMAIN-SUFFIX, github.com, AmyTelecom
+DOMAIN-SUFFIX, raw.githubusercontent.com, AmyTelecom
 
 [Host]
 
-dev-api.phperhub.com = 127.0.0.1
-
 [URL Rewrite]
-^(http|https):\/\/(www.)?(g|google)\.cn https://www.google.com 302
 
 
 [MITM]
