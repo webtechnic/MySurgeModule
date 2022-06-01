@@ -5,9 +5,7 @@
 [General]
 
 [Rule]
-DOMAIN-SUFFIX, github.com, AmyTelecom
-DOMAIN-SUFFIX, raw.githubusercontent.com, AmyTelecom
-
+RULE-SET, https://raw.githubusercontent.com/webtechnic/MySurgeModule/main/profile.list, AmyTelecom
 [Host]
 
 [URL Rewrite]
