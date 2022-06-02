@@ -1,3 +1,8 @@
+# DOMAIN-KEYWORD,baidu
+# USER-AGENT,mytv*
+# IP-CIDR,17.0.0.0/8,no-resolve
+# DOMAIN,p16-tiktokcdn-com.akamaized.net
+# PROCESS-NAME,com.zhiliaoapp.musically
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, bbc.com
 DOMAIN-SUFFIX, raw.githubusercontent.com
