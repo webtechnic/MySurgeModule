@@ -1,11 +1,11 @@
 #!name= amy
 #!desc= amy for Mac
-#!system= mac
 
 [General]
 
 [Rule]
 RULE-SET, https://raw.githubusercontent.com/webtechnic/MySurgeModule/main/profile.list, AmyTelecom
+
 [Host]
 
 [URL Rewrite]
