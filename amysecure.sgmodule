@@ -30,5 +30,4 @@ DOMAIN-KEYWORD,milvus.io
 
 [MITM]
 skip-server-cert-verify = true
-hostname = %APPEND% *.abema.tv, *.chelaile.net.cn
 
