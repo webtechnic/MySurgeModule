@@ -4,7 +4,6 @@
 # DOMAIN,p16-tiktokcdn-com.akamaized.net
 # PROCESS-NAME,com.zhiliaoapp.musically
 DOMAIN-SUFFIX, github.com
-DOMAIN-SUFFIX, openai.com
 DOMAIN-SUFFIX, bbc.com
 DOMAIN-SUFFIX, raw.githubusercontent.com
 DOMAIN-SUFFIX, kubeflow-testing.com
