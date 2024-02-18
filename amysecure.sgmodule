@@ -12,7 +12,7 @@
 # PROCESS-NAME,com.zhiliaoapp.musically
 DOMAIN-SUFFIX,github.com,AmyTelecom
 DOMAIN-SUFFIX,bbc.com,AmyTelecom
-DOMAIN-SUFFIX,raw.githubusercontent.com,AmyTelecom
+DOMAIN-SUFFIX,githubusercontent.com,AmyTelecom
 DOMAIN-SUFFIX,kubeflow-testing.com,AmyTelecom
 DOMAIN-SUFFIX,slack.com,AmyTelecom
 DOMAIN-SUFFIX,kubeflow.org,AmyTelecom
