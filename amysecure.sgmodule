@@ -20,14 +20,5 @@ DOMAIN-SUFFIX,instagram.com,AmyTelecom
 DOMAIN-SUFFIX,serpapi.com,AmyTelecom
 DOMAIN-SUFFIX,vimeo.com,AmyTelecom
 DOMAIN-KEYWORD,discord,AmyTelecom
-DOMAIN-KEYWORD,milvus,AmyTelecom
 
-
-[Host]
-
-[URL Rewrite]
-
-
-[MITM]
-skip-server-cert-verify = true
 
