@@ -11,6 +11,8 @@
 # DOMAIN,p16-tiktokcdn-com.akamaized.net
 # PROCESS-NAME,com.zhiliaoapp.musically
 DOMAIN-SUFFIX,github.com,AmyTelecom
+DOMAIN-SUFFIX,docker.com,AmyTelecom
+DOMAIN-SUFFIX,docker.io,AmyTelecom
 DOMAIN-SUFFIX,huggingface.co,AmyTelecom
 DOMAIN-SUFFIX,bbc.com,AmyTelecom
 DOMAIN-SUFFIX,githubusercontent.com,AmyTelecom
