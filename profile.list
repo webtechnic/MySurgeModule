@@ -14,3 +14,6 @@ DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, serpapi.com
 DOMAIN-SUFFIX, discord.com
 DOMAIN-KEYWORD,milvus.io
+DOMAIN-SUFFIX,xiaohongshu.com,AmyTelecom
+DOMAIN-SUFFIX,jd.com,AmyTelecom
+DOMAIN-SUFFIX,douyin.com,AmyTelecom
