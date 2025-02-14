@@ -4,10 +4,4 @@
 [General]
 
 [Rule]
-# DOMAIN-KEYWORD,baidu
-# USER-AGENT,mytv*
-# IP-CIDR,17.0.0.0/8,no-resolve
-# DOMAIN,p16-tiktokcdn-com.akamaized.net
-# PROCESS-NAME,com.zhiliaoapp.musically
-DOMAIN-SUFFIX,xiaohongshu.com,AmyTelecom
-DOMAIN-SUFFIX,jd.com,AmyTelecom
+RULE-SET,https://raw.githubusercontent.com/webtechnic/MySurgeModule/refs/heads/main/profile.list,AmyTelecom
