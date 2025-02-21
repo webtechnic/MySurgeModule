@@ -10,19 +10,19 @@
 # IP-CIDR,17.0.0.0/8,no-resolve
 # DOMAIN,p16-tiktokcdn-com.akamaized.net
 # PROCESS-NAME,com.zhiliaoapp.musically
-DOMAIN-SUFFIX,github.com,AmyTelecom
-DOMAIN-SUFFIX,docker.com,AmyTelecom
-DOMAIN-SUFFIX,docker.io,AmyTelecom
-DOMAIN-SUFFIX,huggingface.co,AmyTelecom
-DOMAIN-SUFFIX,bbc.com,AmyTelecom
-DOMAIN-SUFFIX,githubusercontent.com,AmyTelecom
-DOMAIN-SUFFIX,kubeflow-testing.com,AmyTelecom
-DOMAIN-SUFFIX,slack.com,AmyTelecom
-DOMAIN-SUFFIX,kubeflow.org,AmyTelecom
-DOMAIN-SUFFIX,instagram.com,AmyTelecom
-DOMAIN-SUFFIX,serpapi.com,AmyTelecom
-DOMAIN-SUFFIX,vimeo.com,AmyTelecom
-DOMAIN-KEYWORD,discord,AmyTelecom
-DOMAIN-SUFFIX,vercel.app,AmyTelecom
+DOMAIN-SUFFIX,github.com,Proxies
+DOMAIN-SUFFIX,docker.com,Proxies
+DOMAIN-SUFFIX,docker.io,Proxies
+DOMAIN-SUFFIX,huggingface.co,Proxies
+DOMAIN-SUFFIX,bbc.com,Proxies
+DOMAIN-SUFFIX,githubusercontent.com,Proxies
+DOMAIN-SUFFIX,kubeflow-testing.com,Proxies
+DOMAIN-SUFFIX,slack.com,Proxies
+DOMAIN-SUFFIX,kubeflow.org,Proxies
+DOMAIN-SUFFIX,instagram.com,Proxies
+DOMAIN-SUFFIX,serpapi.com,Proxies
+DOMAIN-SUFFIX,vimeo.com,Proxies
+DOMAIN-KEYWORD,discord,Proxies
+DOMAIN-SUFFIX,vercel.app,Proxies
 
 
