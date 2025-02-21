@@ -3,16 +3,16 @@
 # IP-CIDR,17.0.0.0/8,no-resolve
 # DOMAIN,p16-tiktokcdn-com.akamaized.net
 # PROCESS-NAME,com.zhiliaoapp.musically
-DOMAIN-SUFFIX, github.com
-DOMAIN-SUFFIX, bbc.com
-DOMAIN-SUFFIX, raw.githubusercontent.com
-DOMAIN-SUFFIX, kubeflow-testing.com
-DOMAIN-SUFFIX, slack.com
-DOMAIN-SUFFIX, kubeflow.org
-DOMAIN-SUFFIX, ll.bdzybf9.com
-DOMAIN-SUFFIX, instagram.com
-DOMAIN-SUFFIX, serpapi.com
-DOMAIN-SUFFIX, discord.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,kubeflow-testing.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,kubeflow.org
+DOMAIN-SUFFIX,ll.bdzybf9.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,serpapi.com
+DOMAIN-SUFFIX,discord.com
 DOMAIN-KEYWORD,milvus.io
 DOMAIN-SUFFIX,xiaohongshu.com,AmyTelecom
 DOMAIN-SUFFIX,jd.com,AmyTelecom
