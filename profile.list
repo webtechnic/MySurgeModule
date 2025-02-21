@@ -5,7 +5,7 @@
 # PROCESS-NAME,com.zhiliaoapp.musically
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,kubeflow-testing.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,kubeflow.org
