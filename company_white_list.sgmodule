@@ -6,3 +6,5 @@
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/webtechnic/MySurgeModule/refs/heads/main/profile.list,Proxies
 DOMAIN-SUFFIX,xhscdn.com,Proxies
+DOMAIN-SUFFIX,jd.com,Proxies
+DOMAIN-SUFFIX,xiaohongshu.com,Proxies
