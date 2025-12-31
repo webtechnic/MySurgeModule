@@ -15,7 +15,7 @@ YGCX = select, Proxies, 🎯Direct, "🇭🇰 香港 01", "🇭🇰 香港 02", 
 # IP-CIDR,17.0.0.0/8,no-resolve
 # DOMAIN,p16-tiktokcdn-com.akamaized.net
 # PROCESS-NAME,com.zhiliaoapp.musically
-RULE-SET,https://raw.githubusercontent.com/webtechnic/MySurgeModule/main/gitlab.list,GitHub,"update-interval=86400"
+RULE-SET,https://raw.githubusercontent.com/webtechnic/MySurgeModule/main/github.list,GitHub,"update-interval=86400"
 RULE-SET,https://raw.githubusercontent.com/webtechnic/MySurgeModule/main/ygcx.list,YGCX,"update-interval=86400"
 DOMAIN-SUFFIX,docker.com,Proxies
 DOMAIN-SUFFIX,docker.io,Proxies
