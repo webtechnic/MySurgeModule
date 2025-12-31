@@ -3,5 +3,34 @@
 # IP-CIDR,17.0.0.0/8,no-resolve
 # DOMAIN,p16-tiktokcdn-com.akamaized.net
 # PROCESS-NAME,com.zhiliaoapp.musically
+
+# GitHub 主域名
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+
+# GitHub CDN 和资源
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+
+# GitHub 相关服务
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,thegithubshop.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,github.global.ssl.fastly.net
+
+# Git LFS
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-release-asset-*.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-user-asset-*.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-repository-file-*.s3.amazonaws.com
+
+# Copilot
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+
+# Actions
+DOMAIN-SUFFIX,githubcopilot.com

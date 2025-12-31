@@ -1,0 +1,38 @@
+# DOMAIN-KEYWORD,baidu
+# USER-AGENT,mytv*
+# IP-CIDR,17.0.0.0/8,no-resolve
+# DOMAIN,p16-tiktokcdn-com.akamaized.net
+# PROCESS-NAME,com.zhiliaoapp.musically
+
+# 京东
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jdcloud.com
+
+# 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,pddugc.com
+
+# 淘宝/天猫/阿里
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,mmstat.com
+
+# 小红书
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+
+# 抖音
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinstatic.com
